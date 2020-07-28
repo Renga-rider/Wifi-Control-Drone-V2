@@ -1,5 +1,5 @@
 # define Reset_Wifi 0  //Incase you want to reset wifi settings
-                      //-> change the wifi 1 and upload and chage back wifi to 0 and re-upload
+                      //change the Reset_wifi as 1 and upload and chage back Reset_wifi to 0 and re-upload
 #define USE_NODE_MCU_BOARD        // Comment out the boards you are not using
 //#define USE_CUSTOM_BOARD          // For all other ESP8266-based boards -
                                     // see "Custom board configuration" in Settings.h
