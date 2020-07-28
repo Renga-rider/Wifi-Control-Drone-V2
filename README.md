@@ -1,4 +1,4 @@
 # Wifi-Control-Drone-V2
-controlling the using mobile with wifi
+controlling the drone using mobile with wifi
 
 Check Readme.pdf
